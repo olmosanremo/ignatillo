@@ -1,0 +1,43 @@
+
+@font-face {
+  font-family: 'Outrun Future Bold';
+  src: url('./assets/fonts/future.outrun-future-bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+body {
+  margin: 0;
+  font-family: 'Outrun Future Bold', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.fab-btn {
+  background-color: red;
+  border-radius: 50%;
+  z-index: 20;
+  position: absolute;
+  bottom: 10px;
+  width: 60px;
+  height: 60px;
+}
+
+h1{
+  font-family: 'Outrun Future Bold', sans-serif;
+}
+
+.gusti {
+
+  font-family: 'Outrun Future Bold', sans-serif;
+}
+
+
+
+
